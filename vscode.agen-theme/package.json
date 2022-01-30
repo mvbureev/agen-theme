@@ -1,8 +1,14 @@
 {
     "name": "mvbureev-agen-theme",
     "displayName": "aGen",
+    "publisher": "mvbureev",
     "description": "https://github.com/mvbureev/agen-theme",
-    "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mvbureev/agen-theme"
+    },
+    "icon": "icon.png",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
