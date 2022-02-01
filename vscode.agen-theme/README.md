@@ -1,5 +1,7 @@
 ## aGen theme for vscode
 
-![expample](https://github.com/mvbureev/agen-theme/raw/main/vscode.agen-theme/example.jpg)
+### Visual Studio Code theme: `Palenight` + `Github Bolds tokens` + `medium contrast colors`
+
+![expample](https://github.com/mvbureev/agen-theme/raw/main/vscode.agen-theme/example.png)
 
 **Enjoy!**
